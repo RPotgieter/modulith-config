@@ -1,4 +1,4 @@
 app:
-  greeting: "howzit"
+  greeting: "howzit2"
   feature-flag:
     enabled: true
