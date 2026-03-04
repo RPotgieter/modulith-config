@@ -1,0 +1,4 @@
+app:
+  greeting: "howzit"
+  feature-flag:
+    enabled: true
